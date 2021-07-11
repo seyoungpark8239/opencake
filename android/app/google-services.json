@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "419463293261",
+    "project_id": "opencake-56fce",
+    "storage_bucket": "opencake-56fce.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:419463293261:android:90137049d430f303f02f04",
+        "android_client_info": {
+          "package_name": "com.opencake"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "419463293261-4e1d7cnj6apnt39cfv91cvm7jasitcca.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.opencake",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "419463293261-q4k5ekn8kpdar8m28mk3o2fie36hjqef.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApo3fDl5wvT5YWoNgM2sH_FiH4AoZ8WYY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "419463293261-q4k5ekn8kpdar8m28mk3o2fie36hjqef.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
